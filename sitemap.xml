@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://athuluriakhil.vercel.app/</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/about</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/projects</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/links</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/skills</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/blog</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/tech-stack</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/contact</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/admin</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://athuluriakhil.vercel.app/login</loc>
+	<lastmod>2025-02-12T09:17:23+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
